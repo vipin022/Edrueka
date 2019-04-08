@@ -3,3 +3,6 @@
 3. git status
 4. git push
 5. git clone
+klsachlk
+sakdhlksa
+sakldhlkas
